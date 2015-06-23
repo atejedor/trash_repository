@@ -1,0 +1,5 @@
+function revise()
+
+for i=1:N
+do it
+end
